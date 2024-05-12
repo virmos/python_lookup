@@ -1,0 +1,3 @@
+[submodule "ObserverHooks"]
+	path = ObserverHooks
+	url = https://github.com/Graveflo/ObserverHooks.git
